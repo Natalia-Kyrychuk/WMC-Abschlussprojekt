@@ -5,10 +5,7 @@
 fetch("questions.json")
   .then(response => response.json())
   .then(data => {
-    console.log("Fragen aus questions.json geladen:", data);
-  })
-  .catch(error => {
-    console.error("Fehler beim Laden der JSON-Datei:", error);
+      questions = data;
   });
 // --- Zustand ---
 let selectedCats = new Set();
