@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of Germany?",
+    "choices": ["Berlin", "Munich", "Frankfurt", "Hamburg"],
+    "answer": "Berlin"
+  },
+  {
+    "id": 2,
+    "question": "Which language runs in a web browser?",
+    "choices": ["Python", "Java", "C#", "JavaScript"],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 3,
+    "question": "HTML stands for?",
+    "choices": ["Hyper Trainer Marking Language", "Hyper Text Markup Language", "Hyper Text Marketing Language", "Hyper Text Markup Leveler"],
+    "answer": "Hyper Text Markup Language"
+  }
+]
+
